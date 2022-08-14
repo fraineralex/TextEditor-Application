@@ -1,0 +1,11 @@
+D:\Documentos\Programas de VS\Text Editor - Application\WinFormsAppTextEditor\bin\Debug\WinFormsAppTextEditor.exe.config
+D:\Documentos\Programas de VS\Text Editor - Application\WinFormsAppTextEditor\bin\Debug\WinFormsAppTextEditor.exe
+D:\Documentos\Programas de VS\Text Editor - Application\WinFormsAppTextEditor\bin\Debug\WinFormsAppTextEditor.pdb
+D:\Documentos\Programas de VS\Text Editor - Application\WinFormsAppTextEditor\obj\Debug\WinFormsAppTextEditor.csproj.AssemblyReference.cache
+D:\Documentos\Programas de VS\Text Editor - Application\WinFormsAppTextEditor\obj\Debug\WinFormsAppTextEditor.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Programas de VS\Text Editor - Application\WinFormsAppTextEditor\obj\Debug\WinFormsAppTextEditor.txtWinForm.resources
+D:\Documentos\Programas de VS\Text Editor - Application\WinFormsAppTextEditor\obj\Debug\WinFormsAppTextEditor.Properties.Resources.resources
+D:\Documentos\Programas de VS\Text Editor - Application\WinFormsAppTextEditor\obj\Debug\WinFormsAppTextEditor.csproj.GenerateResource.cache
+D:\Documentos\Programas de VS\Text Editor - Application\WinFormsAppTextEditor\obj\Debug\WinFormsAppTextEditor.csproj.CoreCompileInputs.cache
+D:\Documentos\Programas de VS\Text Editor - Application\WinFormsAppTextEditor\obj\Debug\WinFormsAppTextEditor.exe
+D:\Documentos\Programas de VS\Text Editor - Application\WinFormsAppTextEditor\obj\Debug\WinFormsAppTextEditor.pdb
